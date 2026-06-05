@@ -23,6 +23,8 @@ int main(){
 
      const int minPerHour = 60; // constant variable cannot be changed fr they r just like  final in java
         printf("the value of minPerHour is %d \n", minPerHour);
+    
+        
         
 
 

@@ -27,9 +27,25 @@ int main(){
     bool isProgrammingfun = false ;
 
     // Conditional statements (if and else statements)
-    
-    
+
+    if(isProgrammingfun){
+        printf("Programming is fun \n");
+    }
+    else{
+        printf("Programming is not fun \n");
+    }
+
+    char* result = (isProgrammingfun)? "Yeahhh" : "hell nah";
+
+    printf("Result: %s\n", result);
 
 
-    
+    int countdown = 3;
+
+while (countdown > 0) {
+  printf("%d\n", countdown);
+  countdown--;
+}
+printf("Happy New Year!!\n");
+
 }
