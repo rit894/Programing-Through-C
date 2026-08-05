@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/sridh/OneDrive/Desktop/Programing-Through-C",
-      "program": "c:/Users/sridh/OneDrive/Desktop/Programing-Through-C/build/Debug/outDebug",
+      "cwd": "c:/Users/sridh/OneDrive/Desktop/Programing-Through-C/Programes/src",
+      "program": "c:/Users/sridh/OneDrive/Desktop/Programing-Through-C/Programes/src/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
