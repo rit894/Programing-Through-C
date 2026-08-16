@@ -3,7 +3,7 @@
 
 int main() {
     int choice;
-    int n = 0;  // number of students
+    int n = 0;
     int roll[100];
     char name[100][50];
     float m1[100], m2[100], m3[100];
